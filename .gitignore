@@ -1,0 +1,4 @@
+# ignore org files
+*.org
+*.org~
+*~
